@@ -31,7 +31,7 @@ flutterfire configure
 - Open Terminal and follow the steps
 
 ```bash
-cd android
+ cd android
 ./gradlew signingReport
 ```
 - Copy the SHA-1 and SHA-256.
