@@ -1,5 +1,5 @@
 
-# OTP Firebase Integration
+# Firebase Integration with Flutter
 
 ## Step-1 - Install flutterfire 
 
@@ -30,7 +30,8 @@ flutterfire configure
 - To Generate SHA KEYS for Android 
 - Open Terminal and follow the steps
 
-```bash 
+```bash
+cd android
 ./gradlew signingReport
 ```
 - Copy the SHA-1 and SHA-256.
